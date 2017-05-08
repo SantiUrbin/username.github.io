@@ -1,2 +1,2 @@
-# username.github.io
+# http//username.github.io
 My personal website
